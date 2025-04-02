@@ -1,7 +1,6 @@
 {
   "name": "bewitch",
   "homepage": "https://yureusu.github.io/-Bewitch/",
-  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
